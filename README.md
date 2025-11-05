@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/astrometrics.correo.provicional@gmail.com">LinkedIn</a> ·
   <a href="https://github.com/astrometricscorreoprovicional-hash">GitHub</a> ·
-  <a href="https://kaggle.com/TU-KAGGLE">Kaggle</a> ·
-  <a href="mailto:TU-EMAIL">Email</a>
+  <a href="https://kaggle.com/robertoramirez37">Kaggle</a> ·
+  <a href="mailto:astrometrics.correo.provicional@gmail.com">Email</a>
 </p>
