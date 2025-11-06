@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aviation & Space Informatics Banner" />
+  <img src="banner.png" alt="Aviation & Space Informatics Banner" />
 </p>
 
 <h1 align="center">Roberto Ramírez</h1>
